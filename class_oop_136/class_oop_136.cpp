@@ -40,4 +40,5 @@ int main() {
 	cout << "Masukan Nama :";
 	cin >> mhs1.nama;
 	
+	mhs1.cetak();
 }
