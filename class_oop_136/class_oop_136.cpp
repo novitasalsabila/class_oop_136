@@ -5,4 +5,5 @@ class mahasiswa {
 public:
 	string nim;
 	string nama;
+
 };
